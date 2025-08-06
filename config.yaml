@@ -1,0 +1,17 @@
+# Game economy
+initial_balance: 100
+bet_amount: 1
+
+# Base spin
+spin_win_min: 0
+spin_win_max: 2
+
+# Bonus trigger
+bonus_trigger_chance: 4
+
+# Bonus logic
+bonus_symbol_chance: 10
+bonus_max_turns: 4
+bonus_attempts: 2
+bonus_symbol_min_value: 1
+bonus_symbol_max_value: 1
